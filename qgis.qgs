@@ -38,10 +38,10 @@
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>meters</units>
     <extent>
-      <xmin>10115708.34891904331743717</xmin>
-      <ymin>-1764166.85337436688132584</ymin>
-      <xmax>14951803.7253269050270319</xmax>
-      <ymax>892533.5861793018411845</ymax>
+      <xmin>4587934.38802134618163109</xmin>
+      <ymin>-3901229.68971688998863101</ymin>
+      <xmax>17878603.41891663894057274</xmax>
+      <ymax>3352696.97839432442560792</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -152,10 +152,10 @@
     </maplayer>
     <maplayer labelsEnabled="0" simplifyLocal="1" maxScale="0" refreshOnNotifyMessage="" type="vector" simplifyAlgorithm="0" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" minScale="1e+8" readOnly="0" autoRefreshTime="0" refreshOnNotifyEnabled="0" simplifyDrawingHints="1" autoRefreshEnabled="0" geometry="Point">
       <extent>
-        <xmin>102.47218803873225568</xmin>
+        <xmin>95.21684397372749231</xmin>
         <ymin>-8.77433616939186045</ymin>
-        <xmax>119.55547428985912006</xmax>
-        <ymax>1.17150825898224942</ymax>
+        <xmax>140.77423576084146362</xmax>
+        <ymax>5.90585647896887878</ymax>
       </extent>
       <id>titik_ad8335d1_f74a_4d47_942d_6a5a15f9c18b</id>
       <datasource>./titik.shp</datasource>
@@ -288,7 +288,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;qgis&quot;" sortOrder="0">
         <columns>
           <column hidden="0" type="field" name="id" width="-1"/>
           <column hidden="0" type="field" name="qgis" width="-1"/>
